@@ -32,4 +32,4 @@ Download recent batch of stickers as a bulked zip folder at https://github.com/w
 6. You can now use stickers in the video editing tool and the collage editing tool (known as photo editing tool).
 
 # CHANGELOG
-Updates are available at https://warrenwoodhouse.fandom.com/wiki/Category:SHAREfactory_Stickers?useskin=oasis#Changelog
+Updates are available at https://warrenwoodhouse.fandom.com/wiki/Category:SHAREfactory_Stickers?action=toggle_view_desktop#Changelog
