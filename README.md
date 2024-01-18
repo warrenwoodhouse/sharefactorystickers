@@ -6,19 +6,18 @@ SHAREfactory Stickers by Warren Woodhouse. A repository of stickers for use in S
 * Latest Release: v1.0
 
 # LICENSE AGREEMENT
-You can read the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
+You can read the license agreement at https://warrenwoodhouse.tumblr.com/terms
 
 # KEEP IN TOUCH
 * Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
-* Follow on Twitter: https://twitter.com/warrenwoodhouse
-* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/wiki/Blog
-* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
+* Blog: https://warrenwoodhouse.tumblr.com/
+* More: https://warrenwoodhouse.tumblr.com/tagged/follow
 
 # README
 The README file is at https://github.com/warrenwoodhouse/sharefactorystickers/wiki/README.txt
 
 # LICENSING
-The License Agreement policy is at https://github.com/warrenwoodhouse/sharefactorystickers/blob/main/LICENSE and the updated license is available at https://warrenwoodhouse.fandom.com/wiki/Terms?useskin=oasis#WL
+The License Agreement policy is at https://github.com/warrenwoodhouse/sharefactorystickers/blob/main/LICENSE and the updated license is available at https://warrenwoodhouse.tumblr.com/terms
 
 # DOWNLOAD
 Download recent batch of stickers as a bulked zip folder at https://github.com/warrenwoodhouse/sharefactorystickers/releases/latest
@@ -32,4 +31,6 @@ Download recent batch of stickers as a bulked zip folder at https://github.com/w
 6. You can now use stickers in the video editing tool and the collage editing tool (known as photo editing tool).
 
 # CHANGELOG
-Updates are available at https://warrenwoodhouse.fandom.com/wiki/Category:SHAREfactory_Stickers?action=toggle_view_desktop#Changelog
+Updates are available at https://github.com/warrenwoodhouse/sharefactorystickers/blob/main/README.md#changelog
+
+* [CLICK HERE](https://github.com/warrenwoodhouse/sharefactorystickers/commits/main/) to see the full list of updates to the repository.
